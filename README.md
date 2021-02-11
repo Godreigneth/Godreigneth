@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Godreigneth Levi, a Husband, Father, Developer, and Teacher!!</h1>
 <h3 align="center">I'm a passionate Full Stack Software Developer from Sweden</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=godreigneth&label=Profile%20views&color=0e75b6&style=flat" alt="godreigneth" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godreigneth" alt="godreigneth" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/godreignethld" target="blank"><img src="https://img.shields.io/twitter/follow/godreignethld?logo=twitter&style=for-the-badge" alt="godreignethld" /></a> </p>
-
 - 🔭 I’m currently working on [completing an intensive 4-month-long program in Full Stack Development, DevOps, and Cloud Services at the Integrify Academy.](https://www.integrify.io)
 
 - 🌱 I’m currently learning **everything 🤣**
@@ -27,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/godreignethld" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="godreignethld" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/godreigneth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="godreigneth" height="30" width="40" /></a>
 <a href="https://fb.com/godreignethld" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="godreignethld" height="30" width="40" /></a>
 </p>
