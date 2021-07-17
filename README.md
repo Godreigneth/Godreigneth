@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Godreigneth Levi, a Husband, Father and Software Engineer with technical experience.!</h1>
 <h3 align="center">Passionate Full Stack Software Engineer / Developer from Sweden</h3>
 
-- 🔭 I’m currently undertaking on [an intensive Full Stack Development, DevOps and Cloud Services project at the Integrify Academy.](https://www.integrify.io)
+- 🔭 I’m currently undertaking [an intensive Full Stack Development, DevOps and Cloud Services project with Integrify Academy.](https://www.integrify.io)
 
 - 🌱 I’m currently learning **everything 🤣**
 
