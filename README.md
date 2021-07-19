@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **Anything 🤣**
 
-- 📫 How to reach me **hello@godreigneth.com**
+- 📫 Reach me at **hello@godreigneth.com**
 
 - 📄 Know about my experiences [https://godreigneth.com](https://godreigneth.com)
 
-- ⚡ Fun fact **I love to sing**
+- ⚡ Fun fact **I love meeting people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
