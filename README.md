@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently undertaking [an intensive Full Stack Development, DevOps and Cloud Services project with Integrify Academy.](https://www.integrify.io)
 
-- 🌱 I’m currently learning **everything 🤣**
+- 🌱 I’m currently learning **new stacks 🤣**
 
 - 👯 I’m looking to collaborate **with other developers**
 
-- 🤝 I’m looking for help with **everything 🤣**
+- 🤝 I’m looking for help in **helping others 🤣**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Godreigneth?tab=repositories](https://github.com/Godreigneth?tab=repositories)
 
