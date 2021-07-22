@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently undertaking [an intensive Full Stack Development, DevOps and Cloud Services project with Integrify Academy.](https://www.integrify.io)
 
-- 🌱 I’m currently learning **new stacks 🤣**
+- 🌱 I’m currently learning **new stacks**
 
 - 👯 I’m looking to collaborate **with other developers**
 
