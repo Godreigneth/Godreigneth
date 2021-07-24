@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **hello@godreigneth.com**
 
-- 📄 Know about my experiences [https://godreigneth.com](https://godreigneth.com)
+- 📄 Know about my experiences [https://godreigneth.com/CV](https://godreigneth.com/assets/cv/Godreigneth-Levi-Dibia-cv.pdf)
 
 - ⚡ Fun fact **I love meeting people**
 
