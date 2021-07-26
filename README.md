@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://godreigneth.com/CV](https://godreigneth.com/assets/cv/Godreigneth-Levi-Dibia-cv.pdf)
 
-- ⚡ Fun fact **I love meeting new people**
+- ⚡ Fun fact **Love meeting new people**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
