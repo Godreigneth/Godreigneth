@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Godreigneth Levi DIBIA. A Husband, Father and Software Engineer with technical experience.</h1>
 <h3 align="center">Full Stack Software Engineer / Developer from Sweden</h3>
 
-- 🔭 Started studying Software Technology Programme (Bachelor of Computer Science) [at Linneaus University.](https://lnu.se/en/)
+- 🔭 Started studying Software Technology Programme (Bachelor of Science) [at Linneaus University.](https://lnu.se/en/)
 
 - 🔭 I’m DONE undertaking [an intensive Full Stack Development, DevOps and Cloud Services project with Integrify Academy.](https://www.integrify.io)
 
