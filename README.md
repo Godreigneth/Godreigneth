@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **new stacks**
 
-- 👯 I’m looking to collaborate **with other developers**
+- 👯 I’m looking to collaborate with **other developers**
 
 - 🤝 I’m looking for help in **helping others 🤣**
 
